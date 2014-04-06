@@ -13,6 +13,9 @@ wizards who have their members in the top levels of everything.
 The technology level is basically 1920s, but there are mad scientists building
 advanced technology like robots.
 
+Magic is mostly unknown to normals, but people who are part of the wizard cabal
+know about it and use it in secret.
+
 ##Settings
 
 ###The City
@@ -25,5 +28,13 @@ Adrian - Why not just have it be Chicago? We can take advantage of things in the
 
 ###The Town
 
+This is the sleepy, creepy port town in the countryside where All Is Not As It
+Seems. This is basically Innsmouth.
+
+###The Club
+
+###The Research Laboratory
+
+###The Sewers
 
 ##Groups
