@@ -21,6 +21,8 @@ cities of Prohibition. This would be the main hub. Sub-regions would include the
 city hall, the gangster club, the Gatsby-style mansion, the research laboratory,
 the sewers, and the cabal headquarters.
 
+Adrian - Why not just have it be Chicago? We can take advantage of things in the actual city for plot and world and such.
+
 ###The Town
 
 
